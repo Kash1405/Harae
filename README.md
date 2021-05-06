@@ -12,7 +12,7 @@ Github repo: https://github.com/Kash1405/Harae
   3. Run Harae.app on your MacOS device.
   
 ### For Windows - 
-  https://github.com/Kash1405/Harae
+  https://drive.google.com/drive/folders/18fQHX-mRFOKG_d1b5lnWjOfITO2-AZFk?usp=sharing
   1. Download the folder "Harae for Windows" from the linked Google drive folder.
   2. Unzip "Harae for Windows".
   3. Run Harae.exe on your Windows device.
