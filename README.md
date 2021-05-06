@@ -1,4 +1,4 @@
-# Harae
+# Harae:  The Legend of Haruto
 COMP3329 Game Project
 Github repo: https://github.com/Kash1405/Harae
 
