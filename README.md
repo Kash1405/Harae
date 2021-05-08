@@ -4,8 +4,12 @@ Github repo: https://github.com/Kash1405/Harae
 
 Drive link to Unity Project: https://drive.google.com/drive/folders/1SQCJuU3OsrJzp8Io6rwQFi6Owl9FJybe?usp=sharing
 
+Link to trailer: https://drive.google.com/file/d/1tJFtO16IO6F_snM61wz-C4LEYdUttoJy/view
+
 
 ## How to run the game [Installation Instructions]:
+
+[Warning: Due to it being an intensive game, we recommend using windowed mode for initial runs [NOT FULLSCREEN]].
 
 ### For MacOS - 
   https://drive.google.com/file/d/1DADMrlHaTZy60OBQkw5qsYMoVGefCfQ7/view?usp=sharing
