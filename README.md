@@ -2,6 +2,8 @@
 COMP3329 Game Project
 Github repo: https://github.com/Kash1405/Harae
 
+Drive link to Unity Project: https://drive.google.com/drive/folders/1SQCJuU3OsrJzp8Io6rwQFi6Owl9FJybe?usp=sharing
+
 
 ## How to run the game [Installation Instructions]:
 
